@@ -2,13 +2,16 @@
 
 **Demonstração simples e sofisticada de habilidades em engenharia de dados**
 
-Esse foi um trabalho realizado esse mês (set/2025), recebi a demanda para extração de informações de notas ficais para comparativos de analise de preço. Somos responsavei por gerar preços com muita tecnica e estatistica envolvidos, e acompanhar o desenvolvimento dos mercados.
+Este trabalho foi realizado em set/2025 a partir de uma demanda de extração de informações de notas fiscais para análises comparativas de preços. Somos responsáveis por gerar preços com rigor técnico e estatístico e por acompanhar a evolução dos mercados.
 
-Nesse trabalho foi realizado a coleta de notas por meio de fotos ou arquivos pdfs, todos em formatos prorpios da empresa que emite essas notas. Eu tive a responsabilidade de fazer todo o processo de ETL e uma analise final dos resultados para a alta gestão.
+Nesta entrega, realizei a coleta de notas a partir de fotos e arquivos PDF, cada um no formato específico do emissor. Fui responsável por todo o processo de ETL — da padronização e validação dos dados à consolidação — e pela análise final dos resultados para a alta gestão.
 
-OS METODOS AQUI SÃO OS MESMO USADOS NO MEU DIA A DIA DO TRABALHO, MAS OS DADOS SÃO ALTERADOS, PARA PROTEÇÃO E INTEGRIDADE DAS INFORMAÇÕES, SEGUINDO A LGPD (LEI GERAL DE PROTEÇÃO DE DADOS)
+Os métodos empregados são os mesmos que utilizo no meu dia a dia, com dados alterados e/ou anonimizados para proteger a integridade das informações, em conformidade com a LGPD (Lei Geral de Proteção de Dados).
 
-Uma solução clean e profissional que demonstra capacidades avançadas em processamento de imagens e texto usando tecnologias open source.
+O resultado é uma solução enxuta e profissional que demonstra capacidades avançadas em processamento de imagens e texto utilizando tecnologias open source.
+
+Contei com o apoio da minha equipe de automação, que se dedicou intensamente à pesquisa para sofisticar a forma como automatizamos essa demanda.
+
 
 ---
  
