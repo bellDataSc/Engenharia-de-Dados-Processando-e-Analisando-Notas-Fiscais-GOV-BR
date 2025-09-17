@@ -19,9 +19,6 @@ Contei com o apoio da minha equipe de automação, que se dedicou intensamente �
  
 **Made with ☕ by [Isabel Cruz](https://github.com/bellDataSc)**
  
-[![GitHub followers](https://img.shields.io/github/followers/bellDataSc?style=social)](https://github.com/bellDataSc)
-[![GitHub stars](https://img.shields.io/github/stars/bellDataSc/Natural-Language-Processing-with-Disaster-Tweets?sty…
- 
 *"Transforming text data into actionable insights, one tweet at a time"*
  
 </div>
@@ -256,9 +253,6 @@ Este projeto é distribuído sob a licença MIT. Veja `LICENSE` para mais inform
 <div align="center">
  
 **Made with ☕ by [Isabel Cruz](https://github.com/bellDataSc)**
- 
-[![GitHub followers](https://img.shields.io/github/followers/bellDataSc?style=social)](https://github.com/bellDataSc)
-[![GitHub stars](https://img.shields.io/github/stars/bellDataSc/Natural-Language-Processing-with-Disaster-Tweets?sty…
  
 *"Transforming text data into actionable insights, one tweet at a time"*
  
