@@ -46,18 +46,18 @@ streamlit run simple_streamlit_app.py
 ```
 
 ### 3. Acessar Google Colab
-Abra o notebook `Data_Engineering_Showcase.ipynb` no Google Colab para ver a demonstração completa.
+Abra o notebook `Data_Engineering_.ipynb`https://colab.research.google.com/drive/1mdonArnILMldik2jliUoYjZ_-YL7o8bG?usp=sharing no Google Colab para ver a demonstração completa.
 
 ## Estrutura do Projeto
 
 ```
-Data-Engineering-Showcase/
+Data-Engineering-/
 ├──  README.md                          
 ├──  requirements.txt                   
 ├──  simple_streamlit_app.py           
 ├──  simple_image_processor.py         
 ├──  simple_text_processor.py          
-├──  Data_Engineering_Showcase.ipynb   
+├──  Data_Engineering_.ipynb   
 └──  data/                             
 ```
 
@@ -134,7 +134,7 @@ streamlit run simple_streamlit_app.py
 
 ### Google Colab
 
-1. Abra `Data_Engineering_Showcase.ipynb` no Google Colab
+1. Abra `Data_Engineering_.ipynb` no Google Colab
 
 2. Execute as células sequencialmente
 
